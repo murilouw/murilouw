@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Murilo Coelho.
- <img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-BLUE?style=for-the-badge&color=blue">
+ [<img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-BLUE?style=for-the-badge&color=blue">](https://www.linkedin.com/in/murilo-coelho-souza-995500301/)
 
 
 ## Sobre mim:
