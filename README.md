@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Eu sou o Murilo Coelho.
 
-<!--
-**murilouw/murilouw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim:
+Estudante de análise e desenvolvimento de sistemas, 2° período.Atualmente tenho 19 anos e tenho interesse na área de backend e meu principal objetivo é evoluir minhas habilidades na prática e aprender cada vez mais!
 
-Here are some ideas to get you started:
+## Estudando atualmente:
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="ªHTML5l" src="https://img.shields.io/badge/HTML_5-ORANGE?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26">
+<img alt="CSS" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&color=%23663399"> 
+<img alt="C" src="https://img.shields.io/badge/C-blue?style=for-the-badge&color=blue">
+
+</div>
