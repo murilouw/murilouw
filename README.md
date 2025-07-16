@@ -1,4 +1,6 @@
 ## Olá! Eu sou o Murilo Coelho.
+ <img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-BLUE?style=for-the-badge&color=blue">
+
 
 ## Sobre mim:
 Estudante de análise e desenvolvimento de sistemas, 2° período.Atualmente tenho 19 anos e tenho interesse na área de backend e meu principal objetivo é evoluir minhas habilidades na prática e aprender cada vez mais!
